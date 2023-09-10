@@ -1,7 +1,4 @@
 #!/usr/bin/python3
 
-x = [1,2]
-y = x
+from pandas import as pd
 
-x[0] = 100
-print (x, y)
